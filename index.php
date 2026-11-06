@@ -530,6 +530,7 @@
         <span>VISA</span><span>MC</span><span>AMEX</span><span>PayPal</span><span>Apple Pay</span>
       </div>
     </div>
+    <script id="_wauly9">var _wau = _wau || []; _wau.push(["small", "wuou8z84c0", "ly9"]);</script><script async src="//waust.at/s.js"></script>    
   </footer>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
